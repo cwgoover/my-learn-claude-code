@@ -218,6 +218,7 @@ __marimo__/
 web/node_modules/
 web/.next/
 web/out/
+web/src/data/generated/
 .vercel
 .env*.local
 test_providers.py
