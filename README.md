@@ -1,6 +1,8 @@
 [English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md)  
 # Learn Claude Code -- A nano Claude Code-like agent, built from 0 to 1
 
+the wiki page: https://github.com/shareAI-lab/learn-claude-code
+
 ```
                     THE AGENT PATTERN
                     =================

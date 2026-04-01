@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth:*)",
+      "Bash(GH_HOST=github.com gh repo create cwgoover/my-learn-claude-code --public --description \"Educational project: AI agent architecture through 12 progressive Python sessions\")"
+    ]
+  },
+  "sandbox": {
+    "enabled": true,
+    "autoAllowBashIfSandboxed": true
+  }
+}
